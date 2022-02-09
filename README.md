@@ -7,8 +7,6 @@
 - 💬 如果你对我感兴趣，可以加我[微信](https://raw.githubusercontent.com/pengyw97/Blog/main/Images/pengyw97.PNG)。
 - 📫 我的邮箱：[email](mailto:877285030@qq.com):)
 
- <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="378" height="278"/>
-
 **技术栈 与 开发工具:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
