@@ -1,4 +1,4 @@
-### Hey，我是pengyw97 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey，我是wesley <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 我目前在深圳从事前端开发工作，对于软件开发有着浓厚的兴趣，希望能与你一起进步。
 
 - 💬 如果你对我感兴趣，可以加我[微信](https://raw.githubusercontent.com/pengyw97/Blog/main/Images/pengyw97.PNG)。
