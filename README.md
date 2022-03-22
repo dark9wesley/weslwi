@@ -2,9 +2,7 @@
 
 > A Front end developer from **Shenzhen, China**.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pengyw97&show_icons=true&theme=graywhite" />
-</a>
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=pengyw97&theme=graywhite&show_icons=true">](https://metrics.lecoq.io/pengyw97?template=classic)
 
 - ✏ **Learning** :  
 
@@ -20,5 +18,5 @@
   - **WeChat**: pengyw97
   - **E-mail** : [click here](mailto:877285030@qq.com)
 
-  [![wesley's github activity graph](https://activity-graph.herokuapp.com/graph?username=pengyw97&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--   [![wesley's github activity graph](https://activity-graph.herokuapp.com/graph?username=pengyw97&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
