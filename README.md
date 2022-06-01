@@ -1,5 +1,4 @@
-### Hi there, I'm Wesley <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hi there, I'm Wesley 
 > A Front end developer from **Shenzhen, China**.
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=pengyw97&theme=graywhite&show_icons=true">](https://metrics.lecoq.io/pengyw97?template=classic)
