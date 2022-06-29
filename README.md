@@ -13,7 +13,7 @@
 - 📫 **Reach me** :  
 
   - **WeChat**: pengyw97
-  - **E-mail** : [click here](mailto: pengyw97@gmail.com)
+  - **E-mail** : pengyw97@gmail.com
 
 <!--   [![wesley's github activity graph](https://activity-graph.herokuapp.com/graph?username=pengyw97&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
