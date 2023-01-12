@@ -1,7 +1,7 @@
 ### Hi there, I'm Wesley 
 > A Front end developer from **Shenzhen, China**.
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=pengyw97&theme=graywhite&show_icons=true">](https://metrics.lecoq.io/pengyw97?template=classic)
+<!-- [<img align="right" src="https://github-readme-stats.vercel.app/api?username=pengyw97&theme=graywhite&show_icons=true">](https://metrics.lecoq.io/pengyw97?template=classic) -->
 
 - ✏ **Learning** :  
 
